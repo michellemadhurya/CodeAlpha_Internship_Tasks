@@ -1,0 +1,75 @@
+
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language known for its simple syntax and readability."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "Artificial intelligence enables computers to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning allows computers to learn patterns from data and make predictions."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing helps computers understand and process human language."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that communicates with users through text or speech."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning uses neural networks with multiple layers to learn complex patterns."
+  },
+  {
+    "question": "What is data science?",
+    "answer": "Data science combines programming, statistics, and analysis to extract useful information from data."
+  },
+  {
+    "question": "How can I learn AI?",
+    "answer": "Start by learning Python, studying machine learning fundamentals, and practising with small projects."
+  },
+  {
+    "question": "What is Python used for?",
+    "answer": "Python is used for web development, automation, data analysis, machine learning, and artificial intelligence."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning trains a model using labelled data containing examples and their correct answers."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning identifies patterns and groups in data without labelled answers."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a computing model inspired by the way biological brains process information."
+  },
+  {
+    "question": "What is computer vision?",
+    "answer": "Computer vision enables computers to interpret and understand images and videos."
+  },
+  {
+    "question": "What is generative AI?",
+    "answer": "Generative AI creates new content such as text, images, music, and computer code."
+  },
+  {
+    "question": "What is a dataset?",
+    "answer": "A dataset is a collection of related data used for analysis or training machine learning models."
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "An algorithm is a sequence of steps designed to solve a problem or complete a task."
+  },
+  {
+    "question": "What is deep learning used for?",
+    "answer": "Deep learning is used in image recognition, speech recognition, language processing, and many other applications."
+  },
+  {
+    "question": "What is the difference between AI and machine learning?",
+    "answer": "Artificial intelligence is the broader field of building intelligent computer systems, while machine learning is a subset of AI that learns patterns from data."
+  }
+]
